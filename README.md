@@ -15,3 +15,8 @@ The following topics will be covered:
 - Dealing with outliers and missing values.
 - Exploring variation and covariation. 
 - Graphics for communication.
+
+
+The *solutions* folder contains an example of an Orange workflow that can reproduce the data analysis described in the slides. 
+
+NB: For this to work, you will need to locate the appropriate .csv files by double-clicking on each CSV file import widget.
