@@ -17,6 +17,8 @@ The following topics will be covered:
 - Graphics for communication.
 
 
+## Example workflow
+
 The *solutions* folder contains an example of an Orange workflow that can reproduce the data analysis described in the slides. 
 
 After opening this workflow in Orange, you will need to locate the appropriate `.csv` files by double-clicking on each CSV file import widget.
