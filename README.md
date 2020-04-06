@@ -22,3 +22,7 @@ The following topics will be covered:
 The *solutions* folder contains an example of an Orange workflow that can reproduce the data analysis described in the slides. 
 
 After opening this workflow in Orange, you will need to locate the appropriate `.csv` files by double-clicking on each CSV file import widget.
+
+
+<hr>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
