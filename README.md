@@ -17,7 +17,33 @@ The following topics will be covered:
 - Graphics for communication.
 
 
-## Example workflow
+## Before the workshop
+
+### Install Orange 3
+
+You will need to have the Orange 3 data science environment installed and working on your computer. 
+ 
+The Anaconda data science platform includes Orange 3, and may be the most convenient way to install:
+* https://www.anaconda.com .
+ 
+Alternatively, you can install Orange 3 as a stand-alone application:
+* https://orange.biolab.si/download.
+ 
+To check that everything is working properly, you can follow the steps in this first tutorial video:
+[Getting Started with Orange 01: Welcome to Orange - YouTube](https://www.youtube.com/watch?v=HXjnDIgGDuI)
+
+
+### Choose a data set that you would like to work with
+
+You will have the chance to work with your own data set during the course. 
+If you have a suitable spreadsheet of data related to your research (in Excel or CSV format), please have it ready. 
+
+Don't worry if you don't have a suitable data set to hand, as other example data sets will be provided.
+
+
+## After the workshop
+
+### Example workflow
 
 The *solutions* folder contains an example of an Orange workflow that can reproduce the data analysis described in the slides. 
 
