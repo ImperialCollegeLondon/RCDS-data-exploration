@@ -50,5 +50,13 @@ The *solutions* folder contains an example of an Orange workflow that can reprod
 After opening this workflow in Orange, you will need to locate the appropriate `.csv` files by double-clicking on each CSV file import widget.
 
 
+## Evaluation
+
+Your feedback is very important to the Graduate School as we are continually trying to improve the training we offer.
+
+At the end of the course, please help us by completing the evaluation form at
+http://bit.ly/rcds2021
+
+
 <hr>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
