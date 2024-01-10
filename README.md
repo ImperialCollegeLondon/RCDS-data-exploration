@@ -55,7 +55,7 @@ After opening this workflow in Orange, you will need to locate the appropriate `
 Your feedback is very important to the Graduate School as we are continually trying to improve the training we offer.
 
 At the end of the course, please help us by completing the evaluation form at
-http://bit.ly/rcds2021
+https://tinyurl.com/feedback-rcds
 
 
 <hr>
