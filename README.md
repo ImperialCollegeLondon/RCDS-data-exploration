@@ -22,12 +22,8 @@ The following topics will be covered:
 ### Install Orange 3
 
 You will need to have the Orange 3 data science environment installed and working on your computer. 
- 
-The Anaconda data science platform includes Orange 3, and may be the most convenient way to install:
-* https://www.anaconda.com .
- 
-Alternatively, you can install Orange 3 as a stand-alone application:
-* https://orange.biolab.si/download.
+* https://orange.biolab.si/download
+  
  
 To check that everything is working properly, you can follow the steps in this first tutorial video:
 [Getting Started with Orange 01: Welcome to Orange - YouTube](https://www.youtube.com/watch?v=HXjnDIgGDuI)
